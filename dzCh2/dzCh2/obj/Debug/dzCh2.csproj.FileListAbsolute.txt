@@ -1,0 +1,14 @@
+C:\Users\shabr\source\repos\dzCh2\dzCh2\bin\Debug\dzCh2.exe.config
+C:\Users\shabr\source\repos\dzCh2\dzCh2\bin\Debug\dzCh2.exe
+C:\Users\shabr\source\repos\dzCh2\dzCh2\bin\Debug\dzCh2.pdb
+C:\Users\shabr\source\repos\dzCh2\dzCh2\obj\Debug\dzCh2.csprojAssemblyReference.cache
+C:\Users\shabr\source\repos\dzCh2\dzCh2\obj\Debug\dzCh2.csproj.CoreCompileInputs.cache
+C:\Users\shabr\source\repos\dzCh2\dzCh2\obj\Debug\dzCh2.exe
+C:\Users\shabr\source\repos\dzCh2\dzCh2\obj\Debug\dzCh2.pdb
+C:\Users\shabr\OneDrive\Рабочий стол\Новая папка (2)\dzCh2\dzCh2\bin\Debug\dzCh2.exe.config
+C:\Users\shabr\OneDrive\Рабочий стол\Новая папка (2)\dzCh2\dzCh2\bin\Debug\dzCh2.exe
+C:\Users\shabr\OneDrive\Рабочий стол\Новая папка (2)\dzCh2\dzCh2\bin\Debug\dzCh2.pdb
+C:\Users\shabr\OneDrive\Рабочий стол\Новая папка (2)\dzCh2\dzCh2\obj\Debug\dzCh2.csprojAssemblyReference.cache
+C:\Users\shabr\OneDrive\Рабочий стол\Новая папка (2)\dzCh2\dzCh2\obj\Debug\dzCh2.csproj.CoreCompileInputs.cache
+C:\Users\shabr\OneDrive\Рабочий стол\Новая папка (2)\dzCh2\dzCh2\obj\Debug\dzCh2.exe
+C:\Users\shabr\OneDrive\Рабочий стол\Новая папка (2)\dzCh2\dzCh2\obj\Debug\dzCh2.pdb
